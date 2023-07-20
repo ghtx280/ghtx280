@@ -1,4 +1,4 @@
-## 👋 Hello, I am a frontend developer from Ukraine. 20 y.o.  
+## 👋 Hello, I am a frontend developer from Ukraine. 21 y.o.  
 **✨ I have more than a year of experience working with HTML, CSS, JS.**  
 **💼  Worked as a freelancer for some time. I am currently working on my own projects, and at the same time actively looking for remote permanent work.**
 ***
